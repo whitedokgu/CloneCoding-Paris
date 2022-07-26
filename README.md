@@ -4,8 +4,8 @@
 
 ## To Clone:
 
-- [https://cdn.shopify.com/s/files/1/0016/7232/files/minimal_typography_8_1024x1024.jpg](https://cdn.shopify.com/s/files/1/0016/7232/files/minimal_typography_8_1024x1024.jpg)
+- <a href="https://www.google.co.kr/" target="_blank">https://cdn.shopify.com/s/files/1/0016/7232/files/minimal_typography_8_1024x1024.jpg</a>
 
 ## To I Made
 
-- [https://whitedokgu.github.io/CloneCoding_1/](https://whitedokgu.github.io/CloneCoding_1/)
+- <a href="https://www.google.co.kr/" target="_blank">https://whitedokgu.github.io/CloneCoding_1/</a>
